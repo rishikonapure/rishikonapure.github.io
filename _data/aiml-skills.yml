@@ -1,0 +1,15 @@
+- name: Data Science
+  desc: Numpy, Pandas, Data Visualisation, SQL, Sklearn
+  percentage: 85
+  color: success
+
+- name: DL Stack
+  desc: Pytorch, Fastai, Transformers
+  percentage: 70
+  color: danger
+
+- name: LLM Stack
+  desc: LangChain
+  percentage: 55
+  color: warning
+

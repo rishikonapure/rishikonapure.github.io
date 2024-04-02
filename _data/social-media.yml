@@ -1,0 +1,28 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+
+email:
+  url   : "konapurer@gmail.com:"
+  icon  : fas fa-envelope
+  color : db4437
+
+github:
+  url   : https://github.com/rishikonapure
+  icon  : fab fa-github
+  color : 333333
+  
+kaggle:
+  url   : https://www.kaggle.com/
+  icon  : fab fa-kaggle
+  color : 20beff
+
+linkedin:
+  url   : https://www.linkedin.com/in/rushikesh-konapure/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+medium:
+  url   : https://medium.com/@rishikonapure
+  icon  : fab fa-medium
+  color : 00ab6c
