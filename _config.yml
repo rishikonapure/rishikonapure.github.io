@@ -11,6 +11,7 @@ open_new_tab        : false                             # Opens external URLs in
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-target-blank
 
 
 ### Navbar Settings ###
@@ -26,15 +27,15 @@ author:
   image             : assets/profile-pic.png
   email             : konapurer@gmail.com
   github            : rishikonapure
-  medium            : rishikonapure
+  medium            : @rishikonapure
   kaggle            : rishikeshkonapure
   linkedin          : rushikesh-konapure
+  instagram         : thedataevangelist
 
 # behance           : your_username
 # dribbble          : your_username
 # facebook          : your_username
 # gitlab            : your_username
-# instagram         : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
@@ -55,8 +56,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
 ### Disqus ###
