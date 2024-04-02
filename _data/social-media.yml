@@ -3,26 +3,26 @@
 
 
 email:
-  url   : "konapurer@gmail.com:"
+  url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
 github:
-  url   : https://github.com/rishikonapure
+  url   : https://www.github.com/
   icon  : fab fa-github
   color : 333333
   
 kaggle:
   url   : https://www.kaggle.com/
   icon  : fab fa-kaggle
-  color : 20beff
+  color : 15aabf
 
 linkedin:
-  url   : https://www.linkedin.com/in/rushikesh-konapure/
+  url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
   color : 007bb5
 
 medium:
-  url   : https://medium.com/@rishikonapure
+  url   : https://medium.com/
   icon  : fab fa-medium
   color : 00ab6c
