@@ -1,13 +1,7 @@
-- title: AI Solutions Intern, Intel
-  from: May, 2023
-  to: present
-  description: Implemented code samples with advanced techniques like QLoRA, RAG, and INT4/8 inference, and developed end-to-end workflows for distributed training and fine-tuning LLMs on Intel hardware. Additionally, I helped maintain AI code samples in the oneAPI Samples repository, showcasing optimization of AI workloads on Intel hardware using Intel's oneAPI toolkits.
-
 - title: Data Science Mentor | AiAdventures, Pune
   from: September, 2022
   to: May, 2023
-  description: Managed deployment of detection and segmentation models on edge devices, optimizing models, and benchmarking on various runtimes. Additionally, helped develop innovative strategies for Knowledge Distillation and Federated Learning, with a focus on regression problems.
-
+  description: DA Mentor
 - title: Teaching Assistant | WIT, Solapur
   from: September, 2021
   to: July, 2022
