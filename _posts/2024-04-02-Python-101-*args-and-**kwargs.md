@@ -1,8 +1,8 @@
 ---
 title: Python 101 - *args and **kwargs
 tags: [Pyhton Programming]
-style: fill
-color: dark
+style: border
+color: primary
 description: Understanding what *args and **kwargs are and how to use them.
 ---
 
